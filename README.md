@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Austin
 - 👀 My Personal interests are hiking and mountaineering in the Pacific North West. In my spare time, I also enjoy playing / developing video games.
-- 🌱 I’m currently looking for a rewarding career. 
+- 🌱 I’m currently looking for a rewarding career in my computer science degree field. 
 - 📫 Contact me at austin.l.scott75@outlook.com
 
 <!---
