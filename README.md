@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Austinx75
-- 👀 I’m interested in
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Austin
+- 👀 My Personal interests are hiking and mountaineering in the Pacific North West. In my spare time, I also enjoy playing / developing video games.
+- 🌱 I’m currently looking for a rewarding career. 
+- 📫 Contact me at austin.l.scott75@outlook.com
 
 <!---
 Austinx75/Austinx75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
